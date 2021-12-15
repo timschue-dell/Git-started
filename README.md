@@ -7,4 +7,4 @@
 
 More stuff
 
-and more
+and more info 
