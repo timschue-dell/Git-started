@@ -6,8 +6,8 @@
    * https://code.visualstudio.com/download
    * 
  * GitHub app
-  * https://desktop.github.com/
- * 
+   * https://desktop.github.com/
+   * 
 ## Things I like 
  * MobaXterm 
   * https://mobaxterm.mobatek.net/
