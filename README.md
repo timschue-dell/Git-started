@@ -10,7 +10,7 @@
    * 
 ## Things I like 
  * MobaXterm 
-  * https://mobaxterm.mobatek.net/
+   * https://mobaxterm.mobatek.net/
  * Notepad++
 ## Info to start with 
 * GitHub doc
