@@ -7,7 +7,7 @@
    * 
  * GitHub app
    * https://desktop.github.com/
-   * 
+   * https://git-scm.com
 ## Things I like 
  * MobaXterm 
    * https://mobaxterm.mobatek.net/
@@ -16,8 +16,3 @@
 * GitHub doc
  * https://docs.github.com/en
 *  
-
-
-More stuff
-
-and more info 
