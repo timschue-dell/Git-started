@@ -24,5 +24,11 @@
 
 ## Sonic links
 * Open Sonic stuff
+  * https://github.com/Azure/SONiC/wiki
   * https://github.com/Azure/sonic-utilities/blob/master/doc/Command-Reference.md
+* Dell Sonic stuff
+  * https://infohub.delltechnologies.com/t/enterprise-sonic-distribution-by-dell-technologies-proof-of-concept-deployment-guide/
+  * https://infohub.delltechnologies.com/t/enterprise-sonic-distribution-by-dell-technologies-lifecycle-management/
+  * https://infohub.delltechnologies.com/t/enterprise-sonic-distribution-by-dell-technologies-layer-3-fabric/
+  * 
 
